@@ -1,2 +1,0 @@
-# Cosillas-de-algoritmos
-dumb
